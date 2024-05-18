@@ -15,7 +15,7 @@ Programming
 Security projects
 Open-source hacking tools
 IoT security solutions
-📫 How to reach me:www.linkedin.com/in/joão-paulo-ribeiro-bb9520ab, www.instagram.com/jp.infosec/,https://www.facebook.com/joaopaulo.ribeiro.121.
+📫 How to reach me:www.linkedin.com/in/joão-paulo-ribeiro-bb9520ab, www.instagram.com/jp.infosec/, https://www.facebook.com/, joaopaulo.ribeiro.121.
 
 [Your preferred contact method, e.g., email, LinkedIn, Twitter]
 <!---
